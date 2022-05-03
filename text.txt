@@ -4,3 +4,6 @@ AA
 B
 B
 A2
+
+
+mas1
