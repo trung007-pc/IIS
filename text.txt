@@ -1,5 +1,4 @@
 ABD
 
 AA
-
-A
+B
